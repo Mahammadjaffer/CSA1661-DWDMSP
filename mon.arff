@@ -1,0 +1,13 @@
+@relation dataset
+@attribute patient{1,2,3,4,5,6}
+@attribute age{20,25,56,34,90,28}
+@attribute bp{23,56,87,95,110,44}
+@attribute insulin{12,89,65,54,33,14}
+@attribute plasma{12,78,97,65,37,89}
+@data
+1 20 23 12 12
+2 25 56 89 78
+3 56 87 65 97
+4 34 95 54 65
+5 90 110 33 37
+6 28 44 14 89
